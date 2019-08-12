@@ -1,22 +1,24 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Michel Combes
+bio: A life hacker at the service of humanity
+port: 4444
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology, blockchains and related stuff
 
-picture: assets/images/picture.jpg
+picture: assets/images/michelc.png
 
-url: http://koppl.in/violet
-# your url: http://USERNAME.github.io
+#url: http://koppl.in/violet
+url: http://michelc.neocities.org
+# your url: http://michel47.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+facebook: mgcombs
+twitter: mgcombes
+github: michel47
+email: michelc@binkmail.com
 
-gems:
+plugins:
   - jekyll-seo-tag
 
 exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]

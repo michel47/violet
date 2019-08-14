@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/violet/gh-pages/violet.png" />
+    <img src="https://353a23c500dde3b2ad58-c49fe7e7355d384845270f4a7a0a7aa1.ssl.cf2.rackcdn.com/5d5173030d0975019279104c/screenshot.png" />
 </p>
 
 ## What has inside?

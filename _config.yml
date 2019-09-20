@@ -8,11 +8,13 @@ description: A blog about technology, blockchains and related stuff
 
 picture: assets/images/michelc.png
 
-#url: http://koppl.in/violet
-url: http://michelc.neocities.org
-url: http://ocean.local:8088/web/michelc.tk
-url: https://michelc.tk
+name: mystifying-easley-53776d
 # your url: http://michel47.github.io
+#url: http://koppl.in/violet
+#url: http://michelc.neocities.org
+#url: https://michelc.tk
+#url: http://ocean.local:8088/web/michelc.tk
+url: https://mystifying-easley-53776d.netlify.com
 
 # if you don't have any of social below, comment the line
 facebook: mgcombs

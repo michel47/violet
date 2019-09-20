@@ -21,18 +21,18 @@ layout: page
 
 * [resume](http://mcombes.resume℠.gq/index-en.html)
 * [CV](https://mcombes.resumesm.gq/index-fr.html)
-* othera[ sites](../#)
+* other [sites](../index.html#sites)
 
-[1]: "http://shqb.ml/"
-[2]: "http://csap.ml/"
-[3]: "http://ydentity.ml/"
-[4]: "http://u-nion.ml/"
-[5]: "http://gc-bank.org/"
-[6]: "http://record™.ml/"
-[7]: "http://organic.technology™.gq/"
-[8]: "https://reverent-poincare-969e20.netlify.com/"
-[9]: "https://ACME™.gq"
-[10]: "https://presence℠.tk"
-[11]: "https://flat™.tk"
-[12]: "https://technology™.gq"
-[13]: "http://thetransitioner.ml"
+[1]: http://shqb.ml/
+[2]: http://csap.ml/
+[3]: http://ydentity.ml/
+[4]: http://u-nion.ml/
+[5]: http://gc-bank.org/
+[6]: http://record™.ml/
+[7]: http://organic.technology™.gq/
+[8]: https://reverent-poincare-969e20.netlify.com/
+[9]: https://ACME™.gq
+[10]: https://presence℠.tk
+[11]: https://flat™.tk
+[12]: https://technology™.gq
+[13]: http://thetransitioner.ml

@@ -1,4 +1,10 @@
+{% if page.layout == 'home' %}
+@import "variables_home";
+{% elsif page.layout == 'page' %}
+@import "variables_page";
+{% else %}
 @import "variables";
+{% endif %}
 @import "home";
 @import "header";
 @import "section";

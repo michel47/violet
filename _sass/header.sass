@@ -1,7 +1,12 @@
 header
-  width: 200px
-  padding: 0 50px 150px 0
+  color: $alpha
+  background-color: $beta
+  height: 100%
+
+  width: calc(220px - 1.4em)
+  padding: 0 50px 150px 1.4em
   position: relative
+  position: fixed
   float: left
   @media #{$below}
     float: none
@@ -10,7 +15,9 @@ header
 
   img
     width: 100%
-    margin-bottom: 20px
+    padding: 10px
+    margin-top: 10px
+    margin-bottom: 15px
 
   nav ul
     margin-bottom: 20px
@@ -23,4 +30,4 @@ header
     width: 80%
 
   small
-    font-size: 0.7em
+    font-size: 0.5em

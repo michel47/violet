@@ -1,4 +1,6 @@
 .DS_Store
 _site
+_dist
+recovery
 .sass-cache
 .npm-debug.log
